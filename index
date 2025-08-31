@@ -1,0 +1,28 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1.0" name="main folder name here">
+
+<category name="Voice Optimization">
+    <reapack name="BRST_AddPunchRegion.lua" type="script" desc="Add punch regions for precise recording">
+      <version name="0.1.0" author="BRST" time="31-08-2025">
+        <source main="main">Linkcomingsoon</source>
+        <about>Adds a "Punch Region" between two successive triggers while recording, and removes the created regions when recording stops.</about>
+      </version>
+    </reapack>
+    
+    <reapack name="BRST_adjust_regions_to_items.lua" type="script" desc="BRST_adjust_regions_to_items">
+      <version name="0.1.0" author="BRST" time="31-08-2025">
+        <source main="main">Linkcomingsoon</source>
+        <about>Adjusts region markers based on selected media items.</about>
+      </version>
+    </reapack>
+    
+    <reapack name="BRST_dubbing_length.lua" type="script" desc=BRST_dubbing_length.lua">
+      <version name="0.1.0" author="BRST" time="31-08-2025">
+        <source main="main">Linkcomingsoon</source>
+        <about>Compare original/dubbed version duration between items on two tracks.</about>
+      </version>
+    </reapack>
+    
+  </category>
+</index>
